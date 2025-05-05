@@ -1,4 +1,3 @@
-## Hi there, I'm Ibnu Rasyid Assidiq 👋
 
 ![Ibnu Rasyid](img/github-header-image.png)
 
@@ -16,8 +15,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<!-- ![cat-type](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcTR5cmY2OHNpbm1zaWUzaWF3b3kwb2czZWc0cmdlcmJucGJyeDVjdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VekcnHOwOI5So/giphy.gif)
-
+![cat-type](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcTR5cmY2OHNpbm1zaWUzaWF3b3kwb2czZWc0cmdlcmJucGJyeDVjdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VekcnHOwOI5So/giphy.gif)
+<!--
 - 🌱 I’m currently learning React
 
 #### Skills
